@@ -1,0 +1,14 @@
+# embeddings cache (must not be submitted)
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# secrets
+.env
+
+# results from eval_retrieval.py --out
+results/
